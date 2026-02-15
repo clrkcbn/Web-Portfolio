@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const sections = document.querySelectorAll('.reveal');
 
 window.addEventListener('scroll', () => {
@@ -18,4 +17,3 @@ window.addEventListener('scroll', () => {
     }
   });
 });
->>>>>>> 5cdbd4e7ba5834458288154b2620a509d73c4be8
